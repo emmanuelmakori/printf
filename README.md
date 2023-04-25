@@ -1,1 +1,1 @@
-this is a rudermentary readme to start with
+SIMPLE README FOR PRINTF
